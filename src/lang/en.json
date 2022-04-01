@@ -1,3 +1,7 @@
 {
-    "": ""
+    "language-select.label.name": "Select language",
+    "description.title": "Sphynx cat",
+    "description.content": "The Sphynx cat (pronounced SFYNGKS, /ˈsfɪŋks/) is a breed of cat known for its lack of fur. Hairlessness in cats is a naturally occurring genetic mutation, and the Sphynx was developed through selective breeding of these animals, starting in the 1960s.",
+    "button.next": "next",
+    "button.prev": "prev"
 }
